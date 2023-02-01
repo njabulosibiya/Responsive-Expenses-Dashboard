@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/dots.png</file>
+        <file>icons/idea.png</file>
+        <file>icons/package.png</file>
+        <file>icons/plant-pot.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/20220912_154456.jpg</file>
+        <file>images/avatar128.jpg</file>
+        <file>images/ce7249147bd073e19e9b00786d16bda31534531126_large.jpg</file>
+        <file>images/dd2fqna-0599f429-9864-4e4d-b879-fb454e69fc50.png</file>
+        <file>images/PhotoRoom-20211012_035358 1.png</file>
+        <file>images/portrait-white-man-isolated_53876-40306 (1).jpg</file>
+        <file>images/rVBUvO4L-wallha.com.jpg</file>
+    </qresource>
+</RCC>

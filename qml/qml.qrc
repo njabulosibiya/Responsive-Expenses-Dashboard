@@ -1,5 +1,27 @@
 <RCC>
-    <qresource prefix="/">
+    <qresource prefix="/main">
         <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/custom">
+        <file>controls/TipsButton.qml</file>
+        <file>controls/ExpensesProgress.qml</file>
+        <file>controls/MoneyDelegate.qml</file>
+        <file>controls/ExpensesDelegate.qml</file>
+        <file>components/Expenses.qml</file>
+        <file>components/DailyExpenses.qml</file>
+        <file>components/MainTitle.qml</file>
+        <file>components/ImagePreviewOnTitle.qml</file>
+        <file>components/PageExpensesRightContent.qml</file>
+        <file>components/Tips.qml</file>
+        <file>components/MainContent.qml</file>
+        <file>components/SideBar.qml</file>
+        <file>components/Profile.qml</file>
+        <file>components/ProfileImage.qml</file>
+        <file>components/NotificationCount.qml</file>
+        <file>components/SideBarNavigation.qml</file>
+        <file>controls/PageNavigationButton.qml</file>
+    </qresource>
+    <qresource prefix="/pages">
+        <file>pages/Expenses.qml</file>
     </qresource>
 </RCC>
